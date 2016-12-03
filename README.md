@@ -1,3 +1,2 @@
-# smartmirror
-Angular2 mirror app
-
+# ng2-electron
+Using Angular2 with Electron
