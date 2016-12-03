@@ -1,0 +1,17 @@
+.time {
+    float: right;
+    font-size: 6em;
+    color: white;
+    font-family: 'Trirong', serif;
+    vertical-align: top;
+    margin-right: .4em;
+}
+
+.date {
+    float: right;
+    font-size: 1em;
+    color: white;
+    font-family: 'Trirong', serif;
+    vertical-align: top;
+    margin-right: .4em;
+}
