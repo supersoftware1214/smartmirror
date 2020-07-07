@@ -47,6 +47,6 @@
     "@types/node": "^6.0.45",
     "concurrently": "^3.0.0",
     "typescript": "^2.0.3",
-    "electron": "^1.4.7"
+    "electron": "^9.1.0"
   }
 }
